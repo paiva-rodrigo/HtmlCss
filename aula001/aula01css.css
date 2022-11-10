@@ -1,0 +1,6 @@
+/* chamamos essa parte aqui de baixo entre chaves de selector */
+h1{
+    font-family: Arial;
+    font-size: 20pt;
+    color: blue;
+}
